@@ -18,4 +18,4 @@ random forest classifiers. Driver mutations predicted in SMURF-OVR have high pat
 - time
 
 ## Contacts
-For help or issues using SMURF, please contact Sungjoonpark (sungjoonpark (at) korea.ac.kr).
+For help or issues using SMURF, please contact Sungjoon Park (sungjoonpark@korea.ac.kr).
