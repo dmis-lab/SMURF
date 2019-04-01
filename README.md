@@ -3,3 +3,11 @@ Reproduce of SMURF: Machine learning pipeline for discovering cancer type specif
 
 ## Pipeline
 ![SMURF](SMURF.png)
+
+## Requirements
+- python (recommend installing Anaconda2)
+- numpy
+- scipy
+- sklearn
+- pandas
+- time
